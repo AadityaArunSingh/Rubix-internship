@@ -1,4 +1,4 @@
-This is my first project for Rubix Data Sciences where I have created an application to traverse through large Excel files and simplifies work by allowing the user to easily select multiple sheets and columns, then save them into a new file.
+This is my first project at Rubix Data Sciences, where I created an application to traverse large Excel files and simplify the process for users to easily select multiple sheets and columns, then save them into a new file.
 
 This program is a sheet and column selection tool for Excel files, built using Tkinter and CustomTkinter for the graphical interface. Here's a quick breakdown of what it does:
 
